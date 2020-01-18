@@ -17,6 +17,7 @@
 + 스터디 방식 최종 결정
     + 2 Track : Clean Code in Python, Effective Python
 + 발표자
-    + Effective python :      정민정, 윤동희, 이다솜, 서미지, 임한동, 손주영, 정경훈, 김경수
-    + Clean code in python :  최현상, 이영수, 정민정, 정경훈, 서미지, 김보섭, 손주영
+    + Effective python : 정민정, 윤동희, 이다솜, 서미지, 임한동, 손주영, 정경훈, 김경수
+    + Clean code in python : 최현상, 이영수, 정민정, 정경훈, 서미지, 김보섭, 손주영
+    + 퍼실의 중간 리뷰
 + 부퍼실 : 정민정님 (이름 외우기 너무 좋아요!!)
